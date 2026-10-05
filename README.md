@@ -1,2 +1,4 @@
 # Richyoungman
-if i will be rich immediately i buy a buggati Tourbillion
+if i will be rich immediately 
+(i added the \n)
+i buy a buggati Tourbillion
